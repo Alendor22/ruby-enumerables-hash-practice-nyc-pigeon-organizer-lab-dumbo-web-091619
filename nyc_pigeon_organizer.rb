@@ -11,4 +11,4 @@ def nyc_pigeon_organizer(data)
       end
     end
 end
-hash.each
+hash.each do |name, vaulue|
