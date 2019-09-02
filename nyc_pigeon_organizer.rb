@@ -14,4 +14,4 @@ end
 hash.each do |name, vaulues|
   vaulues.each do |hashvalue, array|
     data.each do |color_gender_lives, vaulues|
-      value.eash
+      values.eash do 
