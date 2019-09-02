@@ -17,4 +17,4 @@ hash.each do |name, vaulues|
       values.eash do |value, array|
         array.each do |element|
           if element == name && hashvalue == color_gender_lives
-            hash[name]
+            hash[name][hashvalue]
