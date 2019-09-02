@@ -5,5 +5,5 @@ def nyc_pigeon_organizer(data)
       array.each do |name|
         if hash[name] = nil 
           hash[name] = {}
-          
+            hash[name] = color_gender_lives
 end
