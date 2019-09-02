@@ -1,4 +1,5 @@
 def nyc_pigeon_organizer(data)
   data.reduce=({}) do |memo, (attribute, data2)|
-    data2.each do
+    data2.each do |value, name|
+      
 end
