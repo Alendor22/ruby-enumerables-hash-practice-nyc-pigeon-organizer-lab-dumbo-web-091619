@@ -6,5 +6,5 @@ def nyc_pigeon_organizer(data)
         if hash[name] = nil 
           hash[name] = {}
             hash[name][color_gender_lives] = []
-            
+          else 
 end
