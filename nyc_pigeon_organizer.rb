@@ -11,5 +11,5 @@ def nyc_pigeon_organizer(data)
         memo[name][attribute] << value.t_s 
       end
     end
-    
+    memo
 end
