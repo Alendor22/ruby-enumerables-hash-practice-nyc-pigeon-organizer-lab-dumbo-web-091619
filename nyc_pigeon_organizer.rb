@@ -1,5 +1,5 @@
 def nyc_pigeon_organizer(data)
   hash = {}
   data.each do |color_gender_lives, values|
-    values.each do 
+    values.each do |value, |
 end
