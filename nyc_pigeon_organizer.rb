@@ -24,4 +24,5 @@ hash.each do |name, vaulues|
     end
   end
 end
-
+hash
+end
