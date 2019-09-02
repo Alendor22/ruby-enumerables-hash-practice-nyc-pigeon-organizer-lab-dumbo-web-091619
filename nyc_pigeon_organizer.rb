@@ -16,4 +16,4 @@ hash.each do |name, vaulues|
     data.each do |color_gender_lives, vaulues|
       values.eash do |value, array|
         array.each do |element|
-          if element == 
+          if element == name && hashvalue
