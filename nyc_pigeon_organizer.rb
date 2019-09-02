@@ -17,4 +17,11 @@ hash.each do |name, vaulues|
       values.eash do |value, array|
         array.each do |element|
           if element == name && hashvalue == color_gender_lives
-            hash[name][hashvalue] << value.to_s
+            hash[name][hashvalue] << value.t_s 
+          end
+        end
+      end
+    end
+  end
+end
+
