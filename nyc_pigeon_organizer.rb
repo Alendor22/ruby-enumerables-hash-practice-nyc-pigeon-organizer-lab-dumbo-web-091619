@@ -6,5 +6,5 @@ def nyc_pigeon_organizer(data)
           memo[name] = {}
         end
         if !memo[name].keys.include?(attribute)
-          memo[name]
+          memo[name][attribute]
 end
