@@ -12,4 +12,5 @@ def nyc_pigeon_organizer(data)
     end
 end
 hash.each do |name, vaulues|
-  vaulues.each do 
+  vaulues.each do |hashvalue, array|
+    
